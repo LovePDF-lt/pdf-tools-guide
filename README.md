@@ -41,6 +41,6 @@ https://lovepdf.lt
 
 Modern online PDF platforms save time and work directly in your browser without installing software.
 
-## About LovePDF.it
+## About LovePDF.lt
 
-LovePDF.it is a fast and simple online PDF toolkit for students, freelancers, businesses, and everyday users.
+LovePDF.lt is a fast and simple online PDF toolkit for students, freelancers, businesses, and everyday users.

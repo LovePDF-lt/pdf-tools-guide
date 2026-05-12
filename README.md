@@ -17,7 +17,7 @@ This repository contains guides and resources for:
 Large PDF documents are difficult to upload and share.
 
 Use this free online PDF compressor:
-https://lovepdf.it/compress-pdf
+https://lovepdf.lt/
 
 ## Merge PDF Files
 
@@ -35,7 +35,7 @@ You can also convert:
 * JPG to PDF
 
 Online tool:
-https://lovepdf.it
+https://lovepdf.lt
 
 ## Why Online PDF Tools Matter
 
